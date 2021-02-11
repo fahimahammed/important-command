@@ -1,0 +1,24 @@
+//React app installation problem solution
+command::
+
+
+npm cache clean --force
+
+npm cache verify
+
+npm i -g npx
+
+npm i -g create-react-app
+
+npx create-react-app fahim-app
+
+cd fahim-app
+
+npm start
+
+
+
+
+============================================
+HAPPY CODING
+============================================
